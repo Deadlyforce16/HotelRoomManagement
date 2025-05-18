@@ -1,0 +1,6 @@
+@HotelRoomManagement.WebApi_HostAddress = http://localhost:5515
+
+GET {{HotelRoomManagement.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

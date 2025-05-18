@@ -1,0 +1,51 @@
+## Ignore Visual Studio files
+.vs/
+*.aps
+*.bak
+*.cache
+*.expand
+*.ncb
+*.opendb
+*.opensdf
+*.resharper
+*.sdf
+*.suo
+*.user
+*.userset
+*.VC.db
+*.VC.opendb
+
+## Ignore build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+## Ignore packages
+*.nupkg
+*.snupkg
+
+## Ignore Entity Framework migrations history
+[Mm]igrations/HotelRoomManagementDataContextModelSnapshot.cs
+
+## Ignore test results
+*.trx
+
+## Ignore deployment files
+*.publish.xml
+
+## Ignore log files
+*.log
+
+## Ignore user-specific configuration
+*.user.json
+
+## Ignore database files (EXCEPT if you are explicitly including an initial DB)
+#*.mdf
+#*.ldf
+
+## Ignore database backup files (RECOMMENDED - DO NOT INCLUDE)
+*.bak
+
+# Ignore the root level Internet Services Trial Final Exam.txt file if you don't want to include it
+#Internet Services Trial Final Exam.txt 
